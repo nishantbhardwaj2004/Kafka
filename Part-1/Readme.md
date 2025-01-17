@@ -1,1 +1,0 @@
-Confluent kafka related notes.
